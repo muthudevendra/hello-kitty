@@ -1,0 +1,16 @@
+{
+  "name": "hellokitty",
+  "version": "1.0.0",
+  "description": "Merge two images frim Cat as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muthu Devendra",
+  "license": "ISC",
+  "dependencies": {
+    "merge-img": "^2.1.3",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1"
+  }
+}
