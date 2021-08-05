@@ -1,4 +1,5 @@
 const mergeImages = require("merge-img");
+
 /**
  *
  * @param {*} images array of images which needs to be bind together (buffer or url)

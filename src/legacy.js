@@ -1,3 +1,7 @@
+/**
+ * This file contains the legacy code base
+ */
+
 let { writeFile } = require("fs");
 let { join } = require("path");
 let request = require("request");

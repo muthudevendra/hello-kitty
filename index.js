@@ -1,5 +1,5 @@
-const fetchRandomImage = require("./fetch-random-image");
-const bindImages = require("./bind-images");
+const fetchRandomImage = require("./src/fetch-random-image");
+const bindImages = require("./src/bind-images");
 const argv = require("minimist")(process.argv.slice(2));
 
 const {

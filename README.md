@@ -7,8 +7,8 @@ This contains the modification to a exisitng code base which can be found in `le
 ## Installation
 
 ```
-git clone git@github.com:muthudevendra/hellokitty.git
-cd hellokitty
+git clone git@github.com:muthudevendra/hello-kitty.git
+cd hello-kitty
 npm install
 node index.js --greeting FirstMessage --who SecondMessage
 ```
